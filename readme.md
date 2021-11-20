@@ -11,9 +11,10 @@ Along the way I'll attempt to answer _curious compression questions_ such as:
 - Does compression = AI ? 
 
 ## challenge for you :grey_question:
-> You MLH fellow, you have quite the brain
-> You fixed all the bugs, and merged into main
-> You coded some tests (which took quite a while)
+
+> You MLH fellow, you have quite the brain    
+> You fixed all the bugs, and merged into main   
+> You coded some tests (which took quite a while)     
 > Now can you compress [this 100kB file](https://raw.githubusercontent.com/meiji163/compress-demo/main/compressme.txt)?
 
 
