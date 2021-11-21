@@ -11,7 +11,7 @@ ENDL = "!\n"
 CODE = {
          "MLH": "10",
          "but": "11",
-         "because": "101",
+         "because": "0010",
          "spectacular": "0011",
          "cool": "0100",
          "wonderful": "0101",
